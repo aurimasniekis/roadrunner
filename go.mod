@@ -2,7 +2,7 @@ module github.com/spiral/roadrunner
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20181212234831-e0a55b97c705 // indirect
-	github.com/aurimasniekis/roadrunner-hotreload v0.0.0-20191021150407-3845f8b9e322 // indirect
+	github.com/aurimasniekis/roadrunner-hotreload v0.0.0-20191021154844-d95f19942807 // indirect
 	github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37
 	github.com/dustin/go-humanize v1.0.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
